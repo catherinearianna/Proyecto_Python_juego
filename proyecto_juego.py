@@ -37,4 +37,4 @@ palabra_elegida, letras_unicas = elegir_palabra(lista_de_palabras)
 mostrar_nuevo_tablero(palabra_elegida)
 
 
-#while not juego_terminado:
+#while not juego_terminado:  
